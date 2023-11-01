@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="font">
+  <id>samyak-devanagari</id>
+  <metadata_license>CC-BY-3.0</metadata_license>
+  <name>Samyak</name>
+  <summary>Free Indian truetype/opentype fonts</summary>
+  <description>
+    <p>
+      The Samyak package contains fonts for the display of
+      Scripts Devanagari, Gujarati, Malayalam, Odia and Tamil
+    </p>
+  </description>
+  <updatecontact>psatpute_at_redhat_dot_com</updatecontact>
+  <url type="homepage">http://sarovar.org/projects/samyak/</url>
+</component>

@@ -1,0 +1,14 @@
+diff -rup samyak-fonts-1.2.2/oriya/Samyak_Oriya.sfd samyak-fonts-1.2.2_mod/oriya/Samyak_Oriya.sfd
+--- samyak-fonts-1.2.2/oriya/Samyak_Oriya.sfd	2010-06-10 14:40:24.000000000 +0530
++++ samyak-fonts-1.2.2_mod/oriya/Samyak_Oriya.sfd	2014-04-28 12:53:45.510897337 +0530
+@@ -1,7 +1,7 @@
+ SplineFontDB: 3.0
+-FontName: Samyak-Oriya
+-FullName: Samyak Oriya
+-FamilyName: Samyak Oriya
++FontName: Samyak-Odia
++FullName: Samyak Odia
++FamilyName: Samyak Odia
+ Weight: Medium
+ Copyright: Created by:\nRahul Bhalerao <b.rahul.pm@gmail.com>, \nSandeep Shedmake <sandeep.shedmake@gmail.com>, \nBageshri Salvi <sbageshri@gmail.com>, \nPravin Satpute <pravin.d.s@gmail.com>\n\nGNU GPL V.3 or later (with Font Exception), Copyright `2005-2006 by  H.B.C.S.E., T.I.F.R.,\nHomi Bhabha Centre For Science Education, \nTata Institute Of Fundamental Research,\nV.N. Purav Marg, Mankhurd, \nMumbai 400 088, INDIA.\n\nAs a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version.  \n\nFor detailed license see: \nwww.gnu.org and\nhttp://www.gnu.org/licenses/gpl-faq.html#FontException\n\nFurther info :http://sarovar.org/projects/samyak/\nwww.gnowledge.org\n\nCONTACTS:\nNagarjuna G.\nEmail:nagarjun@gnowledge.org
+ Version: 1.2.2
